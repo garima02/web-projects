@@ -1,4 +1,3 @@
 # basic-html-site-styled
 A simple one page website created to learn HTML basics, which in this repo has also been styled to learn CSS basics. The styling is done as explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
 
-[Run the example live](https://garima02.github.io/web-projects/basic-html-site-styled/).

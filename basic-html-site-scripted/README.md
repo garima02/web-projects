@@ -1,4 +1,2 @@
 # basic-html-site-scripted
 A simple one page website created to learn HTML and CSS basics, which in this repo has also had some script added to learn JavaScript basics. The scripting is done as explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics).
-
-[Run the example live](https://garima02.github.io/web-projects/basic-html-site-scripted/).
